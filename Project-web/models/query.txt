@@ -1,0 +1,4 @@
+.output result.csv
+.mode column
+.header on
+.schema
