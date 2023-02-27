@@ -56,6 +56,8 @@
     | resources | Chứa các file tạo ra giao diện trang web | 
     | routes | Chứa các đường dẫn của trang web | 
     | utils | Chứa các hàm xử lý, liên kết với dữ liệu trong database| 
+#### c. Package novel_content
+- Lưu trữ thông tin từng truyện được crawl
 ## IV. Tổng kết
 ### 1. Quá trình thực hiện
 - Tiến độ thực hiện dự án:
@@ -71,3 +73,4 @@ Do thời gian có hạn nên em còn một vài chức năng chưa có thời g
 - Học ReactJS để phần front-end được khoa học hơn
 - Cải thiện thêm về phần front-end
 - Thêm chức năng đánh dấu truyện đã truy cập và truy cập nhiều
+- Dữ liệu được crawl mở rộng hơn, hiện tại mỗi truyện mới có 5 chương đầu 
